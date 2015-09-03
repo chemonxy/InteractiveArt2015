@@ -13,6 +13,7 @@ due:        2014-09-09
     - Xcode: Get it [here](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) and install it. It may take a while.  It's 20800000000 bits large.
 2. Sign up!
 	- Sign up for [http://github.com](http://github.com).  Just get a free account.
+    - Check out the [backpack](https://education.github.com/pack)!
 	- Sign up for an account at [http://talk.olab.io](http://talk.olab.io).
 3. Prepare!
     - Read: [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
@@ -29,4 +30,4 @@ due:        2014-09-09
         - Why? _ofSketch is the software we'll be using to develop openFrameworks code. We'll be going into this in more depth in week 2 and [the more you know](https://www.youtube.com/watch?v=v3rhQc666Sg) the better._
 4. Watch:
     - Watch at least one of these videos [https://vimeo.com/eyeofestival/videos](https://vimeo.com/eyeofestival/videos).
-        - Why: _The presenters at [Eyeo Festival](http://eyeofestival.com/) and [INST-INT](http://inst-int.com/)_ are very influencial in the field of Interactive Art / Creative Code.  Pay attention to them, but try not to be overwhelmed._
+        - Why: _The presenters at [Eyeo Festival](http://eyeofestival.com/) and [INST-INT](http://inst-int.com/) are very influential in the field of Interactive Art / Creative Code.  Pay attention to them, but try not to be overwhelmed._
