@@ -1,0 +1,7 @@
+name: Interactive Art / Creative Code, 2015
+baseurl: /InteractiveArt2015
+url: https://bakercp.github.io/InteractiveArt2015
+description: Interactive Art / Creative Code, 2015
+timezone: America/Chicago
+gems:
+    - jekyll-sitemap

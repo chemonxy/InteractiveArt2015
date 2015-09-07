@@ -9,7 +9,7 @@ Semester, Year
 :   Fall, 2015
 
 Meeting Times
-:   Wednesday 9am-12pm
+:   Wednesday 9am-4pm
 
 Meeting Location
 :   MacLean 416
