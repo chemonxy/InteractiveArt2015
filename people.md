@@ -70,7 +70,8 @@
 - Nick Davis
     - Raspberry Pi for installation
     - Max for sound based
-    -
+    - Performance oriented
+    - Hardware Hacker, Nic Collins Cult Member
 
 Jackie
     - FVNM

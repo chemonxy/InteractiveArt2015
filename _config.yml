@@ -1,7 +1,7 @@
 name: Interactive Art / Creative Code, 2015
 baseurl: /InteractiveArt2015
 url: https://bakercp.github.io/InteractiveArt2015
-description: ATS 3135, Fridays 1:00 PM - 4:00 PM
+description: ATS 3135, Wednesdays 9:00 AM - 4:00 PM
 timezone: America/Chicago
 gems:
     - jekyll-sitemap
