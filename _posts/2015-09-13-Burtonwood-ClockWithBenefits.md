@@ -6,7 +6,7 @@ categories: post
 author: tomburtonwood
 ---
 
-![]({{ site.baseurl }}../images/enzo.png)
+![]({{ site.baseurl }} ../images/enzo.png)
 
 **1. Structure iOS 3D scanner auto share app/website**
 
