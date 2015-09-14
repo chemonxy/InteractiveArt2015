@@ -13,7 +13,7 @@ author: tomburtonwood
 application / website: Structure scanner export application and web interface / web project to display / view scans, with later options to categorize and organize the scans and allow visitors to sort them. the application would allow a user to upload obj files from existing structure scanner app / SDK on ios and see them loaded up into a 3d space in the web browser that they can share with others. The example above - on sketchfab is ok but aesthetically i'm looking for something more stripped down and capable of showing many obj files at once.
 
 
-
+<img src="http://www.3ders.org/images/structure-sensor-3d-scanning-3.jpg" width="600" />
 **2. Improve resolution / range of Structure ios scanner.**
 
 software/app: To build my own scanner using a kinect / structure, to try to improve the resolution  and get better results, either larger scanned areas, increasing the focal length, to scan from a drone in realtime for example, or to scan larger structures with better resolution results, than currently available
