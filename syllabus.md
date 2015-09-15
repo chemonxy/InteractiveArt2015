@@ -17,6 +17,12 @@ Meeting Location
 Instructor
 :   [Christopher Baker](http://christopherbaker.net)
 
+Class Forum
+: [http://talk.olab.io/c/saic/ats-3135-interactive-art](http://talk.olab.io/c/saic/ats-3135-interactive-art)
+
+Class Website
+: [http://bakercp.github.io/InteractiveArt2015/](http://bakercp.github.io/InteractiveArt2015/)
+
 TA
 :   TBA
 
@@ -49,7 +55,6 @@ __Key goals include:__
     - DIWO
     - Publish
     - Cult of Done (http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html)
-
 
 ### Methodology
 Students will engage in individual in-lab and home assignments, class presentations, lectures, discussions, assigned readings, group and individual projects and desk critiques.  Visiting artists / faculty may enhance the experience and offer additional perspectives.
@@ -109,21 +114,30 @@ _(subject to change based on incoming skills and experience)_
     - Interactivity
 
 #### Week 2
-- Introducetion to C++
 
-- Introduction to the ofSketch IDE.
-    - https://github.com/olab-io/
-    - https://github.com/openframeworks/ofBook/blob/master/chapters/ofSketch/chapter.md
+- Discussion
+    - Discuss "What is Code"
+    - Week 1 artists.
 
-- Introduction to openFrameworks
-    - Graphics. All of them.
-
-- How to share and stay sane with git / github.
-    - https://github.com/olab-io/microWorkshops/blob/master/Git_Intro/Git_Intro.md
-    - https://github.com/openframeworks/ofBook/blob/master/chapters/version_control_with_git/chapter.md
+- Bookkeeping / Workshop
+    - [Discourse](http://discourse.org)
+    - [http://talk.olab.io](http://talk.olab.io) Review
+    - Terminal Intro
+        - [Terminal](https://github.com/olab-io/microWorkshops/blob/master/Terminal_Intro/Terminal_Intro.md)
+    - How to share and stay sane with git / github.
+        - [Git Intro](https://github.com/olab-io/microWorkshops/blob/master/Git_Intro/Git_Intro.md)
+        - [ofBook](https://github.com/openframeworks/ofBook/blob/master/chapters/version_control_with_git/chapter.md)
 
 #### Week 3
+- Introduction to C++
+- Introduction to the ofSketch IDE.
+    - [https://github.com/olab-io/](https://github.com/olab-io/)
+    - [https://github.com/openframeworks/ofBook/blob/master/chapters/ofSketch/chapter.md](https://github.com/openframeworks/ofBook/blob/master/chapters/ofSketch/chapter.md)
+
+- Finite State Machines
 - Object Oriented Programming.
+- Introduction to openFrameworks
+    - Graphics. All of them.
 - Project 1 Proposals
 
 #### Week 4
