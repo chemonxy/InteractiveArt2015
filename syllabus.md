@@ -17,6 +17,12 @@ Meeting Location
 Instructor
 :   [Christopher Baker](http://christopherbaker.net)
 
+Class Forum
+: [http://talk.olab.io/c/saic/ats-3135-interactive-art](http://talk.olab.io/c/saic/ats-3135-interactive-art)
+
+Class Website
+: [http://bakercp.github.io/InteractiveArt2015/](http://bakercp.github.io/InteractiveArt2015/)
+
 TA
 :   TBA
 
