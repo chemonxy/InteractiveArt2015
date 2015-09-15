@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jake Elwes: A Clock With Benefits"
+title:  "Project 0 Proposals"
 date:   2015-09-14 00:20:00
 categories: post
 author: jakeelwes
