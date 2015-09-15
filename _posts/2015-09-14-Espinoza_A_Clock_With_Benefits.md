@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Espinoza_A_Clock_With_Benefits"
+title:  Project 0 Proposals
 date:   2015-09-14 00:00:00
 categories: post
 author: tespin
@@ -23,14 +23,14 @@ creates architectural structures based on desired style
 
 Continue working on app that helps user to distill aesthetic taste to concrete
 characteristics by displaying artwork on the screen, and using a simple
-swiping interface to determine whether or not the user likes/dislikes 
+swiping interface to determine whether or not the user likes/dislikes
 the artwork, then showing pieces that continues to refine what one's "taste"
 is
 
 **Interactive environment**
 
 Two environments: one with a participant, who's image is projected as a
-silhouette, then my own, at some distance away(perhaps another building), 
+silhouette, then my own, at some distance away(perhaps another building),
 where I can see the participant's silhouette in real-time; I can manipulate
 the image of the participant (stretching, bending, pushing, distorting, etc)
 and these changes are reflected instantly in the space where the participant

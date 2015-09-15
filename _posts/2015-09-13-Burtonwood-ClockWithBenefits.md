@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tom Burtonwood: A Clock With Benefits, 4 proposals"
+title:  Project 0 Proposals
 date:   2015-09-13 00:00:00
 categories: post
 author: tomburtonwood
